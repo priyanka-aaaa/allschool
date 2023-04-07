@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialBlackRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialBlackRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialLightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialLightRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialHeavyRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialHeavyRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialBlackItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialLightItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialHeavyItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialHeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialMediumItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial Xbold';
+    src: url('FONTSPRINGDEMO-OnStageSerialXboldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialXboldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial Xbold';
+    src: url('FONTSPRINGDEMO-OnStageSerialXboldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialXboldRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - OnStage Serial';
+    src: url('FONTSPRINGDEMO-OnStageSerialMediumRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-OnStageSerialMediumRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
